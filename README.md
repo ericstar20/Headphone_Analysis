@@ -5,7 +5,7 @@
   Using Python's package 'urllib3', 'requests', 'lxml', 'dateutil' to scrape Bose n700 noise cancelling from Amazon page.
  
 * __Step 2 - Plot a Word Cloud graph__ <br>
-  Using Python's package 'wordcloud' ro create the popular words of the headphones. 
+  Using Python's package 'wordcloud' to create the popular words of the headphones. 
   <img src = "graph/wordcloud.png" width='900' heigh='600'>
   
 * __Step 3 - Analyze the reviews' sentiment__ <br>
